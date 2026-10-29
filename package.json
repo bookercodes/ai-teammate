@@ -28,11 +28,5 @@
     "@types/node": "26.4.0",
     "mastra": "1.27.2",
     "typescript": "7.0.2"
-  },
-  "pnpm": {
-    "overrides": {
-      "@mastra/deployer": "1.63.2",
-      "@mastra/server": "1.63.2"
-    }
   }
 }
